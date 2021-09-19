@@ -1,4 +1,4 @@
-# MAX7219
+# MAX7219 - MAX7221
 
 Library for MAX7221 - MAX7219<br/>
 
